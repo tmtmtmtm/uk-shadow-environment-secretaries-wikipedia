@@ -1,0 +1,525 @@
+[
+  {
+    "item": {
+      "value": "Q291470",
+      "label": "Mary Creagh"
+    },
+    "statement": "Q291470$1E2ADFD7-7B1A-4340-85BD-04B74A284CFE"
+  },
+  {
+    "item": {
+      "value": "Q333283",
+      "label": "Nick Herbert"
+    },
+    "statement": "Q333283$D9FC10C1-6ACD-43A7-9D90-6B169C2A45BC"
+  },
+  {
+    "item": {
+      "value": "Q301252",
+      "label": "Anthony Crosland"
+    },
+    "replacedBy": {
+      "value": "Q7416",
+      "label": "Margaret Thatcher"
+    },
+    "start": {
+      "value": "1970-06-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-03-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q301252$606EF879-E372-42AA-B80B-1121F820D8E3"
+  },
+  {
+    "item": {
+      "value": "Q7416",
+      "label": "Margaret Thatcher"
+    },
+    "replaces": {
+      "value": "Q301252",
+      "label": "Anthony Crosland"
+    },
+    "replacedBy": {
+      "value": "Q333401",
+      "label": "Timothy Raison"
+    },
+    "start": {
+      "value": "1974-03-05T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1975-02-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7416$819a5d95-4490-a39b-23e4-db301a9634da"
+  },
+  {
+    "item": {
+      "value": "Q332314",
+      "label": "Michael Heseltine"
+    },
+    "replaces": {
+      "value": "Q333401",
+      "label": "Timothy Raison"
+    },
+    "replacedBy": {
+      "value": "Q7176922",
+      "label": "Peter Shore"
+    },
+    "start": {
+      "value": "1976-11-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332314$7076DB38-A6D4-4B4D-AFA3-ABD4F61C359E"
+  },
+  {
+    "item": {
+      "value": "Q333692",
+      "label": "Roy Hattersley"
+    },
+    "replaces": {
+      "value": "Q332314",
+      "label": "Michael Heseltine"
+    },
+    "replacedBy": {
+      "value": "Q750345",
+      "label": "Gerald Kaufman"
+    },
+    "start": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1980-11-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333692$16611213-BA85-44F4-BF75-5862CACD72E7"
+  },
+  {
+    "item": {
+      "value": "Q336214",
+      "label": "Jack Cunningham, Baron Cunningham of Felling"
+    },
+    "replaces": {
+      "value": "Q750345",
+      "label": "Gerald Kaufman"
+    },
+    "replacedBy": {
+      "value": "Q4980126",
+      "label": "Bryan Gould"
+    },
+    "start": {
+      "value": "1983-10-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q336214$2BFBB389-42DF-4FBF-B525-774F78A9DBDC"
+  },
+  {
+    "item": {
+      "value": "Q4980126",
+      "label": "Bryan Gould"
+    },
+    "replaces": {
+      "value": "Q336214",
+      "label": "Jack Cunningham, Baron Cunningham of Felling"
+    },
+    "replacedBy": {
+      "value": "Q333264",
+      "label": "Chris Smith, Baron Smith of Finsbury"
+    },
+    "start": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4980126$11152545-FBDE-43A7-8853-94450AF9EBCA"
+  },
+  {
+    "item": {
+      "value": "Q333264",
+      "label": "Chris Smith, Baron Smith of Finsbury"
+    },
+    "replaces": {
+      "value": "Q4980126",
+      "label": "Bryan Gould"
+    },
+    "replacedBy": {
+      "value": "Q300182",
+      "label": "Frank Dobson"
+    },
+    "start": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333264$0103B1A6-215E-4F3A-A57D-BCD68AE5F26D"
+  },
+  {
+    "item": {
+      "value": "Q311278",
+      "label": "Jack Straw"
+    },
+    "replaces": {
+      "value": "Q334387",
+      "label": "Eric Heffer"
+    },
+    "start": {
+      "value": "1992-07-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q311278$D3C033AC-88F0-42EA-A5AA-926B19DE6C9B"
+  },
+  {
+    "item": {
+      "value": "Q300182",
+      "label": "Frank Dobson"
+    },
+    "replaces": {
+      "value": "Q333264",
+      "label": "Chris Smith, Baron Smith of Finsbury"
+    },
+    "replacedBy": {
+      "value": "Q333635",
+      "label": "John Gummer"
+    },
+    "start": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q300182$F0A45B7C-617F-4BA1-8C5F-672E68E682C7"
+  },
+  {
+    "item": {
+      "value": "Q583993",
+      "label": "Michael Meacher"
+    },
+    "start": {
+      "value": "1996-07-25T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q583993$95C066EA-3BDB-450E-8B64-12124A6154B3"
+  },
+  {
+    "item": {
+      "value": "Q333058",
+      "label": "Gillian Shephard"
+    },
+    "replaces": {
+      "value": "Q332919",
+      "label": "Norman Fowler"
+    },
+    "replacedBy": {
+      "value": "Q333846",
+      "label": "John Redwood"
+    },
+    "start": {
+      "value": "1998-06-01T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333058$362E0AAF-98B2-4447-967D-4138FCC35DA5"
+  },
+  {
+    "item": {
+      "value": "Q2860158",
+      "label": "Archie Norman"
+    },
+    "replaces": {
+      "value": "Q333846",
+      "label": "John Redwood"
+    },
+    "replacedBy": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "start": {
+      "value": "2000-02-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q2860158$AF7CC3FD-B3F3-45E7-BC5F-616F0D3A4868"
+  },
+  {
+    "item": {
+      "value": "Q748837",
+      "label": "David Lidington"
+    },
+    "replaces": {
+      "value": "Q337709",
+      "label": "Peter Ainsworth"
+    },
+    "replacedBy": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "start": {
+      "value": "2002-07-23T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q748837$53E8E54C-2C29-4BAC-8D1A-0100648A8C5A"
+  },
+  {
+    "item": {
+      "value": "Q748837",
+      "label": "David Lidington"
+    },
+    "replaces": {
+      "value": "Q337709",
+      "label": "Peter Ainsworth"
+    },
+    "replacedBy": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "start": {
+      "value": "2002-07-23T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q748837$6CCA4577-D5C2-4176-931B-5FB6E672C07E"
+  },
+  {
+    "item": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "replaces": {
+      "value": "Q748837",
+      "label": "David Lidington"
+    },
+    "replacedBy": {
+      "value": "Q259961",
+      "label": "Tim Yeo"
+    },
+    "start": {
+      "value": "2003-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2004-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q264766$C02B2C6D-9425-4A16-A62E-4BE430ED5319"
+  },
+  {
+    "item": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "replaces": {
+      "value": "Q5611004",
+      "label": "Tim Collins"
+    },
+    "replacedBy": {
+      "value": "Q259961",
+      "label": "Tim Yeo"
+    },
+    "start": {
+      "value": "2003-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2004-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q264766$F6935651-BA1F-434F-9B0A-F639C10FAEB1"
+  },
+  {
+    "item": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "replaces": {
+      "value": "Q748837",
+      "label": "David Lidington"
+    },
+    "replacedBy": {
+      "value": "Q576147",
+      "label": "Richard Ottaway"
+    },
+    "start": {
+      "value": "2003-11-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2004-03-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332954$2C7DF956-CEC9-4419-AB32-74203E4ECB1D"
+  },
+  {
+    "item": {
+      "value": "Q576147",
+      "label": "Richard Ottaway"
+    },
+    "replaces": {
+      "value": "Q332954",
+      "label": "Caroline Spelman"
+    },
+    "replacedBy": {
+      "value": "Q333480",
+      "label": "Oliver Letwin"
+    },
+    "start": {
+      "value": "2004-03-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-05-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q576147$F364A0B1-401B-4F11-9A36-9A0E21FD3C1F"
+  },
+  {
+    "item": {
+      "value": "Q259961",
+      "label": "Tim Yeo"
+    },
+    "replaces": {
+      "value": "Q264766",
+      "label": "Theresa May"
+    },
+    "start": {
+      "value": "2004-03-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-05-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q259961$AF1F2CAC-553E-4AB8-86AC-E4A19ABEAE10"
+  },
+  {
+    "item": {
+      "value": "Q333480",
+      "label": "Oliver Letwin"
+    },
+    "replaces": {
+      "value": "Q576147",
+      "label": "Richard Ottaway"
+    },
+    "replacedBy": {
+      "value": "Q337709",
+      "label": "Peter Ainsworth"
+    },
+    "start": {
+      "value": "2005-05-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333480$BCBC4BAF-5E93-44D8-B0C8-46C5CE9F95D9"
+  },
+  {
+    "item": {
+      "value": "Q337709",
+      "label": "Peter Ainsworth"
+    },
+    "replaces": {
+      "value": "Q259961",
+      "label": "Tim Yeo"
+    },
+    "replacedBy": {
+      "value": "Q333283",
+      "label": "Nick Herbert"
+    },
+    "start": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-01-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q337709$9FF8B9D3-F006-4A5E-9661-9726A1AC9157"
+  },
+  {
+    "item": {
+      "value": "Q262742",
+      "label": "Hilary Benn"
+    },
+    "replaces": {
+      "value": "Q333283",
+      "label": "Nick Herbert"
+    },
+    "replacedBy": {
+      "value": "Q291470",
+      "label": "Mary Creagh"
+    },
+    "start": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q262742$A7CF1E4D-530E-4938-ADF3-34EECF855595"
+  },
+  {
+    "item": {
+      "value": "Q302815",
+      "label": "Maria Eagle"
+    },
+    "replaces": {
+      "value": "Q291470",
+      "label": "Mary Creagh"
+    },
+    "replacedBy": {
+      "value": "Q581095",
+      "label": "Kerry McCarthy"
+    },
+    "start": {
+      "value": "2013-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302815$11267879-420B-4183-A0B1-CC91AA186B19"
+  }
+]
